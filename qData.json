@@ -1,0 +1,6 @@
+{
+ "number of questions" : 3,   
+ "questions" : ["Who created the Linux Kernel?", "Elon Musk", "Bill Gates", "Linus Torvalds", "C",
+                "Who started the GNU project?", "Linus Torvalds", "Richard Stallman", "Jeff Bezos", "B",
+                "Which of these is a desktop environment?", "GNOME 42", "Manjaro", "Ubuntu", "A"]
+}

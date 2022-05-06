@@ -1,10 +1,10 @@
 # quiz-application
 
-![GitHub license](https://img.shields.io/github/license/imsamroy/Number-Guessing-Game)
-![GitHub issues](https://img.shields.io/github/issues/imsamroy/Number-Guessing-Game)
-![GitHub stars](https://img.shields.io/github/stars/imsamroy/Number-Guessing-Game)
-![GitHub forks](https://img.shields.io/github/forks/imsamroy/Number-Guessing-Game)
-![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fimsamroy%2FNumber-Guessing-Game)
+![GitHub license](https://img.shields.io/github/license/imsamroy/quiz-application)
+![GitHub issues](https://img.shields.io/github/issues/imsamroy/quiz-application)
+![GitHub stars](https://img.shields.io/github/stars/imsamroy/quiz-application)
+![GitHub forks](https://img.shields.io/github/forks/imsamroy/quiz-application)
+![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fimsamroy%2Fquiz-application)
 
 Just a simple CLI MCQ Quiz application made using C++.  
 

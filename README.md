@@ -16,7 +16,7 @@ This CLI application even allows you to add your own set of questions via the at
 
 - Go to the releases page (https://github.com/imsamroy/quiz-application/releases)  
 
-- Download the "Linux-Quiz-Application" and "qData.json" files  
+- Download the "Linux-Quiz-Application" and "qData.json" files. (Keep them in the same folder)  
 
 - Then open a terminal in the directory you have kept it and run `./Linux-Quiz-Application`  
 
@@ -28,7 +28,7 @@ This CLI application even allows you to add your own set of questions via the at
 
 - Go to the releases page (https://github.com/imsamroy/quiz-application/releases)  
 
-- Download the "Windows-Quiz-Application.exe" and "qData.json" files and run the exe  
+- Download the "Windows-Quiz-Application.exe" and "qData.json" files and run the exe. (Keep them in the same folder)   
 
 **NOTE: If you get a message like: "Windows Protected your PC" then ignore it and click the Run anyway option (Any exe not recognised by the Microsoft database gets that message even if it is not suspicious, you can search about it online if you want to)**
 

@@ -8,7 +8,7 @@
 
 Just a simple CLI MCQ Quiz application made using C++.  
 
-This CLI application even allows you to add your own set of questions via the attached JSON file in a particular order. (Instructions are provided below on how to do it)
+This CLI application even allows you to add your own set of questions via the attached JSON file in a particular order. (Instructions are provided below on how to do it- https://github.com/imsamroy/quiz-application#how-to-add-your-own-questions-through-the-json-file)
 
 # Running on GNU/Linux distributions
 

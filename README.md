@@ -4,7 +4,6 @@
 ![GitHub issues](https://img.shields.io/github/issues/imsamroy/quiz-application)
 ![GitHub stars](https://img.shields.io/github/stars/imsamroy/quiz-application)
 ![GitHub forks](https://img.shields.io/github/forks/imsamroy/quiz-application)
-![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fimsamroy%2Fquiz-application)
 
 Just a simple CLI MCQ Quiz application made using C++.  
 

@@ -42,16 +42,20 @@ int main() {
     string userChoice;
     int qCount;
     
+    cout << "Quiz Application (v1.0.0)" << endl;
     cout << "This is a simple CLI MCQ quiz application made using C++" << endl << endl;
 
     fstream jsonFileVar;
     jsonFileVar.open("qData.json", ios::in); //read mode
+    
+    //parsing the json
     stringstream s;
     s << jsonFileVar.rdbuf();
     string data = s.str();
     jsonFileVar.close();
     nlohmann::json qData = nlohmann::json::parse(data);
 
+    //using json data to create and print questions
     qCount = qData["number of questions"];
 
     vector<Question> qSet;
@@ -77,4 +81,5 @@ int main() {
 
         printQuestion(qSet[i], userChoice);
     }
+ cout << "Press enter to exit (if you are on a Windows machine)" << endl;
 }

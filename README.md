@@ -29,7 +29,7 @@ This CLI application even allows you to add your own set of questions via the at
 
 - Download the "Windows-Quiz-Application.exe" and "qData.json" files and run the exe. (Keep them in the same folder)   
 
-**NOTE: If you get a message like: "Windows Protected your PC" then ignore it and click the Run anyway option (Any exe not recognised by the Microsoft database gets that message even if it is not suspicious, you can search about it online if you want to)**
+**NOTE: If you get a message like: "Windows Protected your PC" then ignore it and click "More info" then click the Run anyway option (Any exe not recognised by the Microsoft database gets that message even if it is not suspicious, you can search about it online if you want to)**
 
 # How to add your own questions through the JSON file
 
